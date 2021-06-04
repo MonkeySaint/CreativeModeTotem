@@ -1,0 +1,10 @@
+name: CreativeModeTotem
+version: ${project.version}
+main: ca.elimin8.creativemodetotem.CreativeModeTotem
+api-version: 1.13
+prefix: CMT
+authors: [ kylevardy ]
+description: A totem that puts you into create mode.
+website: minecraft.elimin8.ca
+commands:
+  getcreativetotem:
